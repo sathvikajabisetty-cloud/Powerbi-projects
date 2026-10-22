@@ -1,33 +1,62 @@
-# Power BI Projects Portfolio
 
-## About This Repository
-This repository contains my Power BI dashboards and data analysis projects, showcasing my skills in data visualization, business intelligence, and analytical thinking.
+# 📊 Power BI Projects Portfolio
 
-## Tools & Skills
+Welcome to my **Power BI Projects Portfolio**! This repository showcases my data analytics projects, focusing on data visualization, business insights, and interactive dashboard development.
+
+## 👩‍💻 About Me
+I am building my skills in data analytics through hands-on projects using Power BI, Excel, and data visualization techniques.
+
+## 🛠️ Tools & Technologies
 - Microsoft Power BI
-- Power Query for data transformation
-- DAX measures and calculations
-- Data visualization and dashboard design
-- Data analysis and reporting
+- Microsoft Excel
+- Power Query
+- Data Cleaning and Transformation
+- Data Visualization
+- Business Intelligence
 
-## Projects
+## 📁 Projects
 
-### 1. Amazon Sales Analysis
-Sales and product performance analysis using an interactive Power BI dashboard.
+### 1. 📈 S&P 500 Stock Market Analysis
+Analyzes stock market trends, company closing prices, and monthly trading volumes.
 
-### 2. Zomato Delivery Analysis
-Analysis of food delivery operations, delivery times, traffic, and weather factors.
+**Skills:** Financial Data Analysis, Trend Analysis, Interactive Dashboards
 
-### 3. HR Analytics
-Dashboard exploring workforce metrics and employee trends.
+[View Project](./SP500-Analysis/)
 
-### 4. Myntra Product Analysis
-Analysis of fashion products, prices, discounts, and customer ratings.
+### 2. 🛍️ Myntra Product Analytics
+Explores product counts, brand performance, selling prices, discounts, gender distribution, and customer reviews.
 
-### 5. S&P 500 Analysis
-Exploration of stock market data and performance trends.
+**Skills:** Product Analytics, Pricing Analysis, Data Visualization
 
-*Project files, dashboard screenshots, and detailed findings will be added as each project is uploaded.*
+[View Project](./Myntra-Sales/)
 
-## About Me
-I am a Computer Science student interested in data analytics and business intelligence, building practical projects to strengthen my analytical skills.
+### 3. 📦 Amazon Sales Dashboard
+Analyzes e-commerce sales, orders, customers, product categories, and regional performance.
+
+**Skills:** Sales Analysis, E-commerce Analytics, KPI Reporting
+
+[View Project](./Amazon-Sales/)
+
+### 4. 🍔 Zomato Delivery Analytics
+Explores delivery times, customer ratings, traffic conditions, weather, and order patterns.
+
+**Skills:** Operational Analytics, Delivery Performance, Trend Analysis
+
+[View Project](./Zomato-Delivery/)
+
+### 5. 👥 HR Analytics Dashboard
+Analyzes candidate demographics, education, work experience, company size, and relevant experience.
+
+**Skills:** HR Analytics, Workforce Data Analysis, Interactive Reporting
+
+[View Project](./HR-Analytics/)
+
+## 🎯 Career Objective
+To develop strong data analytics skills and turn raw data into meaningful insights that support data-driven decision-making.
+
+## 📬 Connect With Me
+- **GitHub:** [Explore my repositories](https://github.com/)
+
+---
+⭐ Thank you for visiting my Power BI portfolio!
+
