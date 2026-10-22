@@ -1,24 +1,24 @@
 
-# 📈 S&P 500 Stock Market Analysis Dashboard
+# S&P 500 Stock Market Analysis Dashboard
 
-## 📌 Project Overview
+##  Project Overview
 The **S&P 500 Stock Market Analysis Dashboard** is an interactive Power BI project designed to analyze stock market trends, company performance, closing prices, and trading volumes. It provides an overview of 505 companies using yearly and monthly visualizations.
 
-## 🎯 Project Objectives
+##  Project Objectives
 - Analyze average closing price trends over time.
 - Compare average closing prices across companies.
 - Explore monthly trading volume patterns.
 - Track monthly average closing prices.
 - Identify key stock market trends through interactive filters.
 
-## 📊 Key Performance Indicators (KPIs)
+##  Key Performance Indicators (KPIs)
 - **Total Companies:** 505
 - **Average Closing Price:** $86.37
 - **Highest Closing Price:** $2.05K
 - **Lowest Closing Price:** $1.59
 - **Total Volume:** 2T
 
-## 📈 Dashboard Features
+##  Dashboard Features
 
 ### 1. Yearly Average Closing Price Trend
 Displays the yearly average closing price from 2014 to 2017. The average increased from approximately $76.70 in 2014 to $98.80 in 2017.
@@ -39,7 +39,7 @@ Tracks average closing prices across the months. December has the highest displa
 
 These filters allow users to explore the data for selected companies and time periods.
 
-## 💡 Key Insights
+##  Key Insights
 - The dashboard covers **505 companies**.
 - The overall average closing price is **$86.37**, below $100.
 - The yearly average closing price increased from approximately $76.70 in 2014 to $98.80 in 2017.
@@ -47,22 +47,22 @@ These filters allow users to explore the data for selected companies and time pe
 - January has the highest monthly trading volume in the displayed data.
 - December records the highest monthly average closing price among the months shown.
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Microsoft Power BI
 - Power Query
 - Data Analysis
 - Data Visualization
 - Interactive Dashboard Design
 
-## 🖼️ Dashboard Preview
+##  Dashboard Preview
 ![S&P 500 Stock Market Analysis Dashboard](S&P%20500.png)
 
-## 📁 Project Files
+##  Project Files
 - `stocks perf.pbix` — Power BI dashboard file.
 - `S&P 500.png` — Dashboard screenshot.
 - `README.md` — Project documentation.
 
-## 🚀 What I Learned
+##  What I Learned
 - Analyzing financial and stock market data.
 - Comparing company performance using visualizations.
 - Exploring monthly and yearly trends.
